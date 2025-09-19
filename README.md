@@ -74,13 +74,17 @@ I am looking for opportunities to contribute to meaningful projects and grow as 
 ---
 ### Certifications & Achievements
 
+### Certifications & Achievements
+
 <p align="center">
   [![IEEE WIE Scholarship](https://img.shields.io/badge/IEEE%20WIE%20Scholarship-Award-blue?style=for-the-badge)](YOUR_GOOGLE_DRIVE_LINK_1)
   [![Naukri Code 360](https://img.shields.io/badge/Naukri%20Code%20360-Top%209.58%25-orange?style=for-the-badge)](YOUR_GOOGLE_DRIVE_LINK_2)
-  [![Software Design](https://img.shields.io/badge/Software%20Design-IEEE%20Blended%20Learning-green?style=for-the-badge)](https://drive.google.com/file/d/11X91jK1XBEdAzbUaiTzeU__Nr1bAgBdl/view?usp=drivesdk)
-  [![Introduction to Databases](https://img.shields.io/badge/Introduction%20to%20Databases-Meta%20Coursera-lightgray?style=for-the-badge)](https://drive.google.com/file/d/10S-E2cVIKHsqZc_x_-E7nNkd-7UjRrDZ/view?usp=drivesdk)
+  [![Software Design](https://img.shields.io/badge/Software%20Design-IEEE%20Blended%20Learning-green?style=for-the-badge)](YOUR_GOOGLE_DRIVE_LINK_3)
+  [![Introduction to Databases](https://img.shields.io/badge/Introduction%20to%20Databases-Meta%20Coursera-lightgray?style=for-the-badge)](YOUR_GOOGLE_DRIVE_LINK_4)
   [![Web Development](https://img.shields.io/badge/Web%20Development-CodSoft-red?style=for-the-badge)](YOUR_GOOGLE_DRIVE_LINK_5)
 </p>
+
+
 ---
 ### Connect with Me
 
