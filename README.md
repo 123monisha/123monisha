@@ -63,15 +63,23 @@ I am looking for opportunities to contribute to meaningful projects and grow as 
 * **AI-Powered Learning Platform** Developed using **Python, TensorFlow, and NoSQL**, this platform delivers personalized course and career recommendations. AI integration improves the quality of sensor and student data for accurate learning predictions.
   
 ---
-### Certifications & Achievements
+### Certifications 
+[![Software Design](https://img.shields.io/badge/Software%20Design-IEEE%20Course-orange)](https://drive.google.com/file/d/11X91jK1XBEdAzbUaiTzeU__Nr1bAgBdl/view?usp=drivesdk)
 
-[![Introduction to Databases](https://img.shields.io/badge/Introduction%20to%20Databases-Meta%20Certified-blueviolet)](https://drive.google.com/file/d/1MzgKczbB4fgOHJZZJeHvuByl4pRUcDJI/view?usp=sharing)
+[![Introduction to Databases](https://img.shields.io/badge/Introduction%20to%20Databases-Meta%20Certified-blueviolet)](https://drive.google.com/file/d/1XYM9cLK-2YzNfMZRtjkBaFtOu7cOvehC/view?usp=drivesdk)
 
-[![Web Development](https://img.shields.io/badge/Web%20Development-CodSoft%20Internship-red)](https://drive.google.com/file/d/1GFj_Y_31MZpLb2D-87Ag4uIvxEwop4ta/view?usp=drive_link)
+[![Web Development](https://img.shields.io/badge/Web%20Development-CodSoft%20Internship-red)](https://drive.google.com/file/d/10S-E2cVIKHsqZc_x_-E7nNkd-7UjRrDZ/view?usp=drivesdk)
 
-[![IEEE WIE Scholarship](https://img.shields.io/badge/IEEE%20WIE%20Scholarship-Awarded-brightgreen)](YOUR_IEEE_CERTIFICATE_LINK_HERE)
+[![AI Business Intelligence Analyst (Robowaves)](https://img.shields.io/badge/AI%20Business%20Intelligence%20Analyst-Robowaves-4b0082)](https://drive.google.com/file/d/1npqvtvOpDv4b6vtltnUBDtFl8IxpdKIJ/view?usp=drive_link)
+[![AI Business Intelligence Analyst (NCVET)](https://img.shields.io/badge/AI%20Business%20Intelligence%20Analyst-NCVET%20(Mar%202025)-3c8d3c)](https://drive.google.com/file/d/19Cyj1J_xa8jWaD4VfnWeaaR1WLlT47cn/view?usp=drive_link)
 
-[![Naukri Code 360](https://img.shields.io/badge/Naukri%20Code%20360-Top%209.58%25-blue)](YOUR_NAUKRI_CERTIFICATE_LINK_HERE)
+[![Instagram Clone](https://img.shields.io/badge/Instagram%20Clone-DevTown-993399)](https://drive.google.com/file/d/1cwv1FNrtmBdzn2o7ECBAfld2VHqL3vKz/view?usp=drivesdk)
+
+### Achievements
+
+[![IEEE WIE Scholarship](https://img.shields.io/badge/IEEE%20WIE%20Scholarship-Awarded-brightgreen)](https://drive.google.com/file/d/1GFj_Y_31MZpLb2D-87Ag4uIvxEwop4ta/view?usp=drive_link)
+[![Naukri Code 360](https://img.shields.io/badge/Naukri%20Code%20360-Top%209.58%25-blue)](https://drive.google.com/file/d/1MzgKczbB4fgOHJZZJeHvuByl4pRUcDJI/view?usp=sharing)
+
 ---
 ### Connect with Me
 
