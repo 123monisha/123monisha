@@ -111,5 +111,5 @@ I am looking for opportunities to contribute to meaningful projects and grow as 
 ### My GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/123monisha/123monisha/output/dist/github-snake.svg" alt="GitHub Activity Snake" />
+  <img src="https://raw.githubusercontent.com/123monisha/123monisha/main/dist/github-snake.svg" alt="GitHub Activity Snake" />
 </p>
