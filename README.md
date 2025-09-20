@@ -65,11 +65,15 @@ I am looking for opportunities to contribute to meaningful projects and grow as 
 ---
 ### Certifications & Achievements
 
-- 🏅 **IEEE WIE Scholarship**: Awarded for outstanding academic performance.
-- 🏆 **Naukri Code 360**: Ranked in the top 9.58% of participants.
-- 📜 **Software Design**: Completed the IEEE Blended Learning course.
-- 💻 **Introduction to Databases**: Earned a certificate from Meta on Coursera.
-- 🌐 **Web Development**: Completed the CodSoft internship.
+[![IEEE WIE Scholarship](https://img.shields.io/badge/IEEE%20WIE%20Scholarship-Awarded-brightgreen)]([YOUR_CERTIFICATE_LINK_HERE](https://drive.google.com/file/d/1GFj_Y_31MZpLb2D-87Ag4uIvxEwop4ta/view?usp=drive_link))
+
+[![Naukri Code 360](https://img.shields.io/badge/Naukri%20Code%20360-Top%209.58%25-blue)](YOUR_CERTIFICATE_LINK_HERE)
+
+[![Software Design](https://img.shields.io/badge/Software%20Design-IEEE%20Course-orange)](YOUR_CERTIFICATE_LINK_HERE)
+
+[![Introduction to Databases](https://img.shields.io/badge/Introduction%20to%20Databases-Meta%20Certified-blueviolet)](YOUR_CERTIFICATE_LINK_HERE)
+
+[![Web Development](https://img.shields.io/badge/Web%20Development-CodSoft%20Internship-red)](YOUR_CERTIFICATE_LINK_HERE)
 ---
 ### Connect with Me
 
