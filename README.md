@@ -32,7 +32,9 @@ I am looking for opportunities to contribute to meaningful projects and grow as 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   
-  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/EntityFramework%206-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" alt="Entity Framework 6" />
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" alt="Entity Framework Core" />
   <img src="https://img.shields.io/badge/ADO.NET-007ACC?style=for-the-badge&logo=Microsoft&logoColor=white" alt="ADO.NET" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
   
