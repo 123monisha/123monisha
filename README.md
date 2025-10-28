@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Aspiring .NET / C# Developer| Graduated Data Science Engineering</strong> <br>
-  
+ 
   Passionate about building scalable and user-friendly applications
 </p>
 
