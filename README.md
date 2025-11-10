@@ -2,7 +2,7 @@
 <p align="center">
   <strong>Aspiring .NET / C# Developer| Graduated Data Science Engineering</strong> <br> 
   Passionate about building scalable and user-friendly applications
-</p>
+</p>.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/monisha-ishwar-moger-b17950309/">
