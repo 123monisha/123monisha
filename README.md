@@ -1,7 +1,7 @@
 <h1 align="center">Hi,  I'm Monisha Ishwar❤️</h1>
 <p align="center">
   <strong>Aspiring .NET / C# Developer| Graduated Data Science Engineering</strong> <br> 
-  Passionate about building scalable and user-friendly applications...
+  Passionate about building scalable and user-friendly applications
 </p>
 
 <p align="center">
